@@ -32,6 +32,6 @@ public class Main {
         out.println(c<=a);
 
         // Задание 4
-        out.println(d*d);
+        out.println(a*d);
     }
 }
