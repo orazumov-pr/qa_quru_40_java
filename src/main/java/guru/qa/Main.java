@@ -10,6 +10,7 @@ public class Main {
         int a=60;
         int b=15;
         double c= 5.5E00;
+        double d = Double.MAX_VALUE;
 
         //Задание 0
 
@@ -30,7 +31,7 @@ public class Main {
         out.println(c>=b);
         out.println(c<=a);
 
-
-
+        // Задание 4
+        out.println(d*d);
     }
 }
