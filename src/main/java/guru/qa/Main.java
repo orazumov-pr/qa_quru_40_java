@@ -24,6 +24,12 @@ public class Main {
         out.println(b*c);
         out.println(a/c);
 
+        //Задание 2
+        out.println(a>c);
+        out.println(c<b);
+        out.println(c>=b);
+        out.println(c<=a);
+
 
 
     }
